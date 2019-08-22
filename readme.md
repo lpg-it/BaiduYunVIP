@@ -1,5 +1,7 @@
 ## 百度云账号注意事项
 
+- [点击查看百度云账号](https://github.com/BlameKidd/BaiduYunVIP/blob/master/BaiduYunVIP.md)
+
 - 所有账号均为微博登录.
 
 - 登录时验证码全部为大写. (如果不大写, 有时会提示验证码错误, 即使你的验证码填写正确)
