@@ -24,18 +24,13 @@
 
 1. [pandownload](#pandownload)
 2. [BND](#bnd)
-
 3. [速盘](#速盘)
-
-4. [亿寻](#亿寻)
-
-5. [High Speed Downloader](#high-speed-downloader)
-
-6. [ENFI](#enfi)
-
-7. [baiduCDP](#baiducdp)
-
-8. [baidupcs-web](#baidupcs-web)
+4. [百度网盘直链下载助手](#百度网盘直链下载助手)
+5. [亿寻](#亿寻)
+6. [High Speed Downloader](#high-speed-downloader)
+7. [ENFI](#enfi)
+8. [baiduCDP](#baiducdp)
+9. [baidupcs-web](#baidupcs-web)
 
 
 
@@ -64,6 +59,14 @@
 - 速盘 是一款被称作「度盘神器，使百度网盘保持全速下载免受限速困扰的」Windows 工具
 - 支持资源搜索、管理你自己的百度盘文件、查找重复文件等，并有黑科技加持。
 - 更多介绍请看官网: https://www.speedpan.com/
+
+### 百度网盘直链下载助手
+
+- https://github.com/syhyz1990/baiduyun
+- 本脚本适用于多平台支持安装 Tampermonkey 或 暴力猴扩展的浏览器，如Chrome，360，QQ，UC，2345等。
+- 支持百度网盘PC端网页获取分享链接下载地址和我的网盘下载地址。安装后会在对应界面出现【下载助手】按钮, 配合多线程下载工具达到提速的效果。
+
+- 使用说明: https://github.com/syhyz1990/baiduyun/wiki
 
 ### 亿寻:
 
