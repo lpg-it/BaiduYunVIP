@@ -66,7 +66,7 @@
 - 本脚本适用于多平台支持安装 Tampermonkey 或 暴力猴扩展的浏览器，如Chrome，360，QQ，UC，2345等。
 - 支持百度网盘PC端网页获取分享链接下载地址和我的网盘下载地址。安装后会在对应界面出现【下载助手】按钮, 配合多线程下载工具达到提速的效果。
 
-- 使用说明: https://github.com/syhyz1990/baiduyun/wiki
+- 使用说明: https://www.baiduyun.wiki/zh-cn/
 
 ### 亿寻:
 
