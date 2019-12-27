@@ -1,3 +1,11 @@
+### 加入组织
+
+> QQ群： 586624212
+
+随缘加群，如果账号失效可以在群里通知，这样如果很急的话，我就可以直接分享一个账号使用（看心情=-=）。~
+
+
+
 ## 百度云账号注意事项
 
 - [点击查看百度云账号](https://github.com/BlameKidd/BaiduYunVIP/blob/master/BaiduYunVIP.md)
