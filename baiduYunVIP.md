@@ -41,6 +41,32 @@
 
 百度网盘账号    5.6 更新
 
+账号：[jhsifw2dg8ig@game.weibo.com](jhsifw2dg8ig@game.weibo.com)密码：jt1hk90x0
+
+账号：[jr2d8h2j9mn9@game.weibo.com](jr2d8h2j9mn9@game.weibo.com)密码：w0e7san88
+
+账号：13908475607    密码：hpsip2947
+
+账号：14785407388    密码：pkv08268
+
+账号：18474617361    密码：cgacv5136
+
+账号：16532967337    密码：mianfeivip.comt
+
+账号：16532966511    密码：mianfeivip.comzd
+
+账号：16532967366    密码：mianfeivip.com66
+
+账号：18644813856    密码：a158158
+
+账号：15843469848    密码：a159159
+
+账号：13037356175    密码：ceim926813
+
+------
+
+百度网盘账号    5.6 更新
+
 账号：18485887912密码：vtn15694
 
 账号：17883441260密码：uuuu3333
@@ -215,6 +241,20 @@
 
 ------
 
+5.7 更新
+
+账号：eozogyyay    密码：jnhvheah
+
+账号：bdnyzyfhw    密码：h527767
+
+账号：[dtti7djmmlr@163.com](dtti7djmmlr@163.com)    密码：u55433
+
+账号：eozogyyay    密码：jnhvheah
+
+账号：bdnyzyfhw    密码：h527767
+
+------
+
 5.5 更新
 
 账号：[yebotan2439@163.com](yebotan2439@163.com)    密码：qaz123456
@@ -224,6 +264,14 @@
 账号：13939941543    密码：lizhifan1913
 
 ## 优酷
+
+------
+
+5.7 更新  选账号密码登录
+
+账号：[ihcx45@163.com](ihcx45@163.com)密码：du202020
+
+账号：[jlmj35@163.com](jlmj35@163.com)密码：du202020
 
 ### 3.06 更新
 
