@@ -33,6 +33,12 @@
 
 不要相信网盘里的广告，都是骗人的，被骗后请不要来找我。。。
 
+
+
+**百度云最新不限速教程**：[https://github.com/lpg-it/BaiduYunVIP](https://github.com/lpg-it/BaiduYunVIP)
+
+
+
 ## 超级会员账号
 
 ------
