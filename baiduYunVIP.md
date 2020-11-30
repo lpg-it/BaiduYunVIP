@@ -39,6 +39,30 @@
 
 ------
 
+**百度网盘账号    11.30 更新    微博登录**
+
+账号：17045747744     密码：wa01195742
+
+账号：15080641790    密码：hgoolv703
+
+账号：15074334169     密码：kdcwwv311
+
+------
+
+**百度网盘账号    11.29 更新    微博登录**
+
+账号：13762804961    密码：kahcbo876
+
+------
+
+**百度网盘账号    11.28 更新    微博登录**
+
+账号：18692074170    密码：uxzd271359
+
+账号：18692157242    密码：oswa561308
+
+------
+
 **百度网盘账号    11.27 更新    微博登录**
 
 账号：15243845679    密码：byqulu380
@@ -75,13 +99,13 @@
 
 **第一种情况：下载的是别人分享的链接**
 
-​            ![img](https://qqadapt.qpic.cn/txdocpic/0/2ac2ab5331e328b03ae95fb37693c708/0?w=1920&h=941)            
+            ![img](https://qqadapt.qpic.cn/txdocpic/0/2ac2ab5331e328b03ae95fb37693c708/0?w=1920&h=941)            
 
 打开链接后，选中要下载的文件，点击下载即可。
 
 **第二种情况：下载的是自己网盘的文件**
 
-​            ![img](https://qqadapt.qpic.cn/txdocpic/0/9e3ff7ba87baead4f84d92c1ae7b81de/0?w=1920&h=946)            
+            ![img](https://qqadapt.qpic.cn/txdocpic/0/9e3ff7ba87baead4f84d92c1ae7b81de/0?w=1920&h=946)            
 
 我们要先把要下载的文件进行分享，分享后打开链接，然后执行第一种情况同样的操作。
 
@@ -107,7 +131,7 @@
 
   我用的是Edge浏览器，以这个浏览器为例：扩展 -- > [从 Microsoft Store 获取扩展](https://microsoftedge.microsoft.com/insider-addons?hl=zh-CN) --> 搜索油猴插件，安装即可。
 
-​            ![img](https://qqadapt.qpic.cn/txdocpic/0/1c4609df6ca4c04eee451189fc96672c/0?w=1634&h=825)            
+            ![img](https://qqadapt.qpic.cn/txdocpic/0/1c4609df6ca4c04eee451189fc96672c/0?w=1634&h=825)            
 
 - 下载网盘下载助手
 
@@ -197,5 +221,3 @@
 ## 虾米
 
 账号：13035523102  密码：286467426a
-
-
