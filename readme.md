@@ -28,7 +28,6 @@
 
 - [百度云不限速方法一](http://note.youdao.com/noteshare?id=cb5be916679925fdd237084261591503&sub=713E33790E334D9C9856D34A67612330)
 - [百度云不限速方法二](https://docs.qq.com/doc/DY3NXREZxekxUZFB5)
-- [百度云不限速方法三](https://docs.qq.com/doc/DY3RmaWZGRkFzYmt3)
 
 ## 百度云不限速下载工具汇总
 
